@@ -4,14 +4,16 @@ Artemis-Framework2
 Artemis Framework Version 2b
 
 Features : 
-Based on Zend Framework Library
--Use Twig Template engine
--MVC structure
--Named Parameter
--Multi language support
+<br>-Based on Zend Framework Library
+<br>-Use Twig Template engine
+<br>-MVC structure
+<br>-Named Parameter
+<br>-Multi language support
 
+<h1>
 Note : 
-       Please insert Zend Library in library/ directory
+</h1>
+     <h2>  Please insert Zend Library in library/ directory </h2>
        
 
 
